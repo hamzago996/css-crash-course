@@ -1,0 +1,58 @@
+.p1 {
+    color: rgb(255, 0, 0);
+}
+
+
+  .p1.red {
+color: aqua;
+} 
+
+p.p1 {
+    color: black;
+}
+
+p {
+    color: green;
+}
+#gold-p1 {
+    color: rgba(255, 208, 0, 1);
+    /* I rule! */
+}
+
+
+
+
+
+
+
+
+
+
+
+
+/*  
+
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap');
+
+div {
+   Color 
+  background-color: red;
+
+   width and height 
+  width: 100%;
+  max-width: 70vw;
+  height: 100vh;
+
+  fONTS
+
+  font-size: 16px;
+  font-weight: 600;
+  font-family: Inter, sans-serif;
+
+   Border 
+  border: 8px solid yellow;
+
+
+}
+*/
+
